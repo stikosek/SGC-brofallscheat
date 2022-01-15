@@ -1,3 +1,6 @@
+<a href='https://ko-fi.com/stikosek' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+![GitHub all releases](https://img.shields.io/github/downloads/stikosek/SGC-brofallscheat//total?color=%23FF8C00&style=flat-square)
+
 # SGC-brofallscheat-
 SGC - ShitGameCheat is a cheat for brofalls that i made in a competetion with JNNJ. 
 Keep in mind that this cheat was made in 24 hours lmao
