@@ -5,6 +5,7 @@ Keep in mind that this cheat was made in 24 hours lmao
 # Features
 
 ![Výstřižek](https://user-images.githubusercontent.com/62238729/149635247-c1419df2-6e45-4f01-a477-d86dba620f3f.PNG)
+
  -Speed
  -Flight
  -GodMode
